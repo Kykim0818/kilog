@@ -1,2 +1,0 @@
-# kilog
-deploy repo
